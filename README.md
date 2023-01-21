@@ -1,4 +1,4 @@
-#WikiDB API
+# WikiDB API
 wikiDB is a simple API built using Mongoose, Node.js, and Express.js. It allows for CRUD (Create, Read, Update, and Delete) operations on a MongoDB collection.
 
 ## Getting Started
